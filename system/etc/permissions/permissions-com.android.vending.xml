@@ -33,5 +33,7 @@
         <permission name="android.permission.WRITE_SECURE_SETTINGS" />
         <permission name="android.permission.MANAGE_ROLLBACKS" />
         <permission name="android.permission.LOADER_USAGE_STATS" />
+        <permission name="android.permission.USE_INSTALLER_V2" />
+        <permission name="com.android.permission.USE_INSTALLER_V2" />
     </privapp-permissions>
 </permissions>
