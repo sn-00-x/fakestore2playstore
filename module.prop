@@ -1,6 +1,6 @@
 id=fakestore_2_playstore
 name=FakeStore 2 PlayStore
-version=FS2PS 0.1
-versionCode=21001
+version=FS2PS 0.2
+versionCode=22001
 author=sn00x
 description=Replace FakeStore with (patched) PlayStore for license verification and in-app purchases with microG
