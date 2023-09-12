@@ -17,6 +17,9 @@ You want to have **License Verification and In-App-Purchases with microG** and a
 
 **Important:** Do NOT flash in TWRP, you need to use the Magisk app and have an active internet connection for downloading the patched PlayStore.
 
+**Note:** If you decide to install this module at a later stage and you have already added your Google account to microG, it may be necessary to remove your account from the system first and sign in again after the installation.
+
+
 ## NanoDroid or microG Installer Revived already do the job, don't they?
 
 Yes and no. After several tries with combinations of LineageOS 18.1, Lineage OS 18.1 for microG, NanoDroid and microG Installer Revived, I always ended up with either an unbootable system
